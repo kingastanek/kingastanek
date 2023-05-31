@@ -1,10 +1,9 @@
 <h1>Greetings! 👋</h1>
-<p>I am a frontend engineer with a strong focus on delivering high-quality and performant code.</p> 
+<p>Welcome to my GitHub profile! I'm a dedicated frontend engineer committed to crafting top-notch, high-performance code.</p> 
 <br />
 <div>
-  <p>🤖 Passionate for a new technologies and their potential to transform industries</p>
-  <p>🚀 Constantly strives to improve skills and deliver the best results possible</p>
-  <p>👩‍🏫 Satisfied mentor, taking great pride in passing knowledge and experience</p>
-  <p>🤝 Strong believer in collaboration and communication</p>
+  <p>🤖 Enthusiastic about embracing cutting-edge technologies that have the power to revolutionize industries</p>
+  <p>🚀 Constantly pushing boundaries, I continuously refine my skills to ensure the delivery of exceptional results</p>
+  <p>👩‍🏫 As a mentor, I find immense satisfaction in sharing knowledge and experiences, empowering others to grow</p>
+  <p>🤝 Firmly rooted in the value of collaboration and effective communication, I believe in harnessing collective strengths for success</p>
 </div>
-
